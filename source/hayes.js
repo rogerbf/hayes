@@ -1,5 +1,3 @@
-const Hayes = (state = {}) => ({
-  inspect: () => state
-})
+const Hayes = (factory, state = {}) => {}
 
-export default Hayes
+module.exports = Hayes
