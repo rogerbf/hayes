@@ -41,5 +41,8 @@
     "distribution",
     "README.md"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "emit-on": "^1.0.0",
+    "protostar": "^0.0.1"
+  }
 }

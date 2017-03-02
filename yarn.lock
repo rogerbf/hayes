@@ -1125,6 +1125,10 @@ ecc-jsbn@~0.1.1:
   dependencies:
     jsbn "~0.1.0"
 
+emit-on:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/emit-on/-/emit-on-1.0.0.tgz#9388cb9377e71b34b805947aca5691cc1a079da9"
+
 "errno@>=0.1.1 <0.2.0-0":
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/errno/-/errno-0.1.4.tgz#b896e23a9e5e8ba33871fc996abd3635fc9a1c7d"
@@ -2646,6 +2650,10 @@ process-nextick-args@~1.0.6:
 progress@^1.1.8:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/progress/-/progress-1.1.8.tgz#e260c78f6161cdd9b0e56cc3e0a85de17c7a57be"
+
+protostar:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/protostar/-/protostar-0.0.1.tgz#5088482add1c52b23745780821b5e167ab04fcde"
 
 prr@~0.0.0:
   version "0.0.0"
